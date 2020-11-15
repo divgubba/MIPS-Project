@@ -1,0 +1,9 @@
+_________________________
+   Trivia Game Choices
+_________________________
+1. Movies/Tv shows
+2. General Knowledge
+3. Pop Culture
+4. Current Events
+5. Music 2018/2017/2000s
+_________________________
